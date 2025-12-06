@@ -42,7 +42,7 @@ By completing this project, you will learn:
 You must have heard people say, if you can teach something then you know it very well. That idea is based on the above statement.
 Throughout the project, we will ask you to explain what you think is going on - **with a Twist!** You wont be allowed to use any  of the technical terms to explain it. Using everyday Layman language, try to tell whats going on.
 
-This one exercise is the only time I ask you **not** to use AI (~_~;) 
+This one exercise is the only time I ask you **not** to use AI `(~_~;)` 
 
 Everywhere else, use AI as you see fit. Afterwards write a short paragraph explaining:
 - What you did 
