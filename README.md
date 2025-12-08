@@ -2,6 +2,12 @@
 
 This repository is part of **WiDS (Winters in Data Science)** conducted by **The Analytics Club, IIT Bombay**.
 
+This project blends **machine learning**, **finance**, and **signal processing** into a single hands-on system.  
+You’ll gain the technical and conceptual depth needed for **quantitative trading**, **AI research**, and **data-driven financial modeling** — all while learning to see through noise and act intelligently.
+
+Hopefully, you find this endevour both rewarding and entertaining :)
+
+
 ---
 
 ## Project Overview
