@@ -51,8 +51,6 @@ Everywhere else, use AI as you see fit. Afterwards write a short paragraph expla
 
 and most importantly, **What do you think you learned?** (^o^)
 
-From my side, I hope to show you more than just the numbers at play. Every topic has a perspective behind it, a history of its ideas and I really like to share that. So ill try to tell about the history of Machine Learning and Stock Markets too! (Maybe there will be history questions lol (^m^))
-
 
 There will be 3 assignments and the Final Project.
 - Machine Learning
