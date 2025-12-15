@@ -59,4 +59,3 @@ Submit your work by 16th December, 2025 via webmail to 24b3935@iitb.ac.in and 24
 May the Profit be with you!
 
 ---
-
