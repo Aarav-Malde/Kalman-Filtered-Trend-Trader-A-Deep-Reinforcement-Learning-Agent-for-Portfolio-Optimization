@@ -1,24 +1,26 @@
 # Week 1 – Kalman Filtering for Trading
 
 ## Goal  
+The goal of this learning module is to build a solid theoretical and practical foundation in Kalman Filters, with an emphasis on their application to financial time series and trading strategies. Learners will understand how Kalman Filters model noisy observations and estimate latent variables such as fair value, trend, volatility, and dynamic relationships. The module aims to bridge intuition, mathematics, and implementation by enabling participants to confidently apply Kalman Filters in Python. By the end of the module, learners will be able to interpret model outputs, evaluate assumptions, and assess the suitability of Kalman Filter–based methods in real trading environments.
 
-
+## What You Will Learn
+By the end of the week, you will understand the mathematical foundations of Kalman filtering, including state-space models, prediction–update equations, and covariance dynamics. You will learn how to implement one-dimensional and multi-dimensional Kalman Filters in Python and apply them to estimate trends, volatility, and dynamic relationships in financial data. You will also gain hands-on experience using Kalman Filters for trading applications such as mean-reversion, trend estimation, and dynamic regression, along with an understanding of their limitations and practical considerations.
 
 ---
 
-## Getting Started
-
-### Step 1 - Go Through the Learning Material
-
 ## Recommended Resources
 
-https://kalmanfilter.net: Intuitive tutorial explaining Kalman Filter via numerical examples and real-world scenarios like radar tracking.​
+- The booklet for week 2. The pdf has been uploaded within the Week 2 folder itself. 
 
-https://blog.quantinsti.com/kalman-filter/ :Python tutorial on Kalman Filter for trading, covering pairs trading, volatility estimation, and code examples with stock data.​
+- ADF_Test_Examples.ipynb: This file contains examples of the Augmented Dickey-Fuller (ADF) test, a statistical test for stationarity. Refer to this for understanding how stationarity is crucial for trading.
 
-https://www.cs.cmu.edu/~motionplanning/papers/sbp_papers/kalman/kleeman_understanding_kalman.pdf :Academic paper detailing Kalman Filter fundamentals, equations, covariance matrices, and implementations like falling body example.​
+- https://kalmanfilter.net: Intuitive tutorial explaining Kalman Filter via numerical examples and real-world scenarios like radar tracking.​
 
-https://medium.com/@serdarilarslan/implementing-a-kalman-filter-based-trading-strategy-8dec764d738e :Practical guide to building a Kalman Filter-driven trading strategy, focusing on dynamic hedge ratios for pairs trading.
+- https://blog.quantinsti.com/kalman-filter/ :Python tutorial on Kalman Filter for trading, covering pairs trading, volatility estimation, and code examples with stock data.​
+
+- https://www.cs.cmu.edu/~motionplanning/papers/sbp_papers/kalman/kleeman_understanding_kalman.pdf :Academic paper detailing Kalman Filter fundamentals, equations, covariance matrices, and implementations like falling body example.​
+
+- https://medium.com/@serdarilarslan/implementing-a-kalman-filter-based-trading-strategy-8dec764d738e :Practical guide to building a Kalman Filter-driven trading strategy, focusing on dynamic hedge ratios for pairs trading.
 
 For a deeper understanding of **Kalman filtering in trading**, we recommend the following resources:
 • **Books on Kalman Filtering**:
