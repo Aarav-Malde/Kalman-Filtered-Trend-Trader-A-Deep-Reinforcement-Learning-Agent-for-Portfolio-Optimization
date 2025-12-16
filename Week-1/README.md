@@ -36,6 +36,7 @@ Build a rigorous conceptual and mathematical understanding of core machine learn
   https://www.youtube.com/watch?v=c36lUUr864M  
 
 ### Step 2 - Complete the Assignment
+
 By completing this assignment, you will learn to:
 1. Build and understand linear regression.
 2. Analyse data properly.
@@ -54,6 +55,7 @@ Submit your work by 16th December, 2025 via webmail to 24b3935@iitb.ac.in and 24
 
 ## Notes
 • This assignment requires Python programming and familiarity with libraries like `pandas`, `numpy`, `sklearn`, `statsmodels` and `matplotlib`. You can refer https://www.w3schools.com to familiarize yourselves with the required libraries.
+
 • If you encounter issues, refer to the supplementary materials or ask for help to anyone of us.
 
 May the Profit be with you!
