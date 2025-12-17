@@ -50,24 +50,24 @@ For a deeper understanding of **Kalman filtering in trading**, we recommend the 
 
 ### Assignment
 **By completing this assignment, you will be able to:** 
-    - Model non-stationary financial time series using Kalman Filters instead of static assumptions
+- Model non-stationary financial time series using Kalman Filters instead of static assumptions
 
-    - Formulate and implement a state-space model for real market data
+- Formulate and implement a state-space model for real market data
 
-    - Use practical feature engineering for financial markets and understanding which features carry predictive power
+- Use practical feature engineering for financial markets and understanding which features carry predictive power
 
-    - Integrate machine learning with probabilistic filtering (Kalman-filtered states → ML prediction)
+- Integrate machine learning with probabilistic filtering (Kalman-filtered states → ML prediction)
 
-    - Design causal, leakage-free trading signals suitable for real backtesting
+- Design causal, leakage-free trading signals suitable for real backtesting
 
-    - Build a complete end-to-end trading pipeline: data → model → signals → PnL
+- Build a complete end-to-end trading pipeline: data → model → signals → PnL
 
-    - Implement and interpret backtesting metrics like Sharpe ratio and drawdown
+- Implement and interpret backtesting metrics like Sharpe ratio and drawdown
 
-    - Understand the gap between predictive accuracy and trading profitability
+- Understand the gap between predictive accuracy and trading profitability
 
-    - Develop intuition for risk management and robustness in systematic strategies
-    
+- Develop intuition for risk management and robustness in systematic strategies
+
 Ensure that the code is detailed and well commented. Make sure the report includes the proper solutions, required code and include all relevant plots, explanations and corresponding output. 
 
 Reach out to anyone of us if you are stuck somewhere and need help. 
