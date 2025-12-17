@@ -49,7 +49,7 @@ For a deeper understanding of **Kalman filtering in trading**, we recommend the 
 
 
 ### Assignment
-#### By completing this assignment, you will be able to: 
+**By completing this assignment, you will be able to:** 
     - Model non-stationary financial time series using Kalman Filters instead of static assumptions
     - Formulate and implement a state-space model for real market data
     - Use practical feature engineering for financial markets and understanding which features carry predictive power
