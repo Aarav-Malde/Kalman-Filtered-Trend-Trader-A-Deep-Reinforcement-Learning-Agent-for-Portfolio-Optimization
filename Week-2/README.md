@@ -20,7 +20,7 @@ By the end of the week, you will understand the mathematical foundations of Kalm
 
 - https://www.cs.cmu.edu/~motionplanning/papers/sbp_papers/kalman/kleeman_understanding_kalman.pdf :Academic paper detailing Kalman Filter fundamentals, equations, covariance matrices, and implementations like falling body example.​
 
-- https://medium.com/@serdarilarslan/implementing-a-kalman-filter-based-trading-strategy-8dec764d738e :Practical guide to building a Kalman Filter-driven trading strategy, focusing on dynamic hedge ratios for pairs trading.
+- https://medium.com/@serdarilarslan/implementing-a-kalman-filter-based-trading-strategy-8dec764d738e :Practical guide to building a Kalman Filter-driven trading strategy
 
 For a deeper understanding of **Kalman filtering in trading**, we recommend the following resources:
 
@@ -42,7 +42,7 @@ For a deeper understanding of **Kalman filtering in trading**, we recommend the 
 
 • **Additional Resource**:
 
--[Kalman Filter for Linear Regression](https://letianzj.github.io/kalman-filter-linear-regression.html): A great resource for understanding how Kalman filtering can be applied to linear regression, helping you deepen your understanding of Kalman filtering in the context of pairs trading.
+-[Kalman Filter for Linear Regression](https://letianzj.github.io/kalman-filter-linear-regression.html): A great resource for understanding how Kalman filtering can be applied to linear regression
 
 -[How a Kalman Filter Works in Pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/): A visual guide to understanding how Kalman filters operate.
 
