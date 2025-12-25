@@ -41,15 +41,17 @@ You will study value-based methods such as Q-learning, understand why tabular me
 
 ---
 
-## Assignment (Coming Next)
+## Assignment
 This week prepares you for a game-based reinforcement learning assignment, where you will design agents to interact with environments rather than solve static prediction tasks. The assignment will focus on:
 - Formulating environments as Markov Decision Processes
 - Designing states, actions, and rewards
 - Choosing appropriate RL algorithms
 - Analyzing learning behavior and failure modes
 
-Details and instructions will be released after this module.
-
+Ensure that the code is well commented.
+ and if you ever feel stuck, feel free to reach out to both of us.
+ Submit your work by 3rd January via webmail to 24B3935@iitb.ac.in and 24b3962@iitb.ac.in 
+ 
 ---
 
 May the Profit be with you!
